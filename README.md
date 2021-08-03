@@ -4,12 +4,12 @@
 - 💞️ Gostaria de coloborar com qualquer projeto backend, melhor se for o desenvolvimento de um compilador.
 
  <div>
-  <a href="https://github.com/AlsDev-Sbin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/AlsDev-Sbin"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
 </div><br/>
   
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Csharp" height="35" width="35" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png">
   <img align="center" alt="Php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="KiXtart" height="50" width="50" src="http://kixtart.org/favicon.ico">
@@ -18,7 +18,6 @@
   <img align="center" alt="Vb .NET/VB Classic/VBScript" height="35" width="35" src="https://i.imgur.com/9MTCk0Z.png">
   <img align="center" alt="Delphi" height="35" width="35" src="https://i.imgur.com/vIVu1I3.png">
   <img align="center" alt="Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/260px-Lua-Logo.svg.png">
-   
 </div>
   
   ##
