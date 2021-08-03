@@ -3,10 +3,10 @@
 - 🌱 Atualmente estou me aventurando no mundo web, que nunca fui tão bom.
 - 💞️ Gostaria de coloborar com qualquer projeto backend, melhor se for o desenvolvimento de um compilador.
 
- <div style="display: inline; float:left;">
+ <div style="float: left; display: inline; overflow: none; white-space: nowrap;">
   <a href="https://github.com/AlsDev-Sbin">
-  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
+  <div style="display: inline; float: left;"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></div>
+  <div style="display: inline; float: right;"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/></div>
 </div><br/>
   
 <div style="display: inline_block"><br>
@@ -28,3 +28,4 @@
   <a href = "mailto:alsdevbin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
