@@ -3,10 +3,10 @@
 - 🌱 Atualmente estou me aventurando no mundo web, que nunca fui tão bom.
 - 💞️ Gostaria de coloborar com qualquer projeto backend, melhor se for o desenvolvimento de um compilador.
 
- <div style="display: inline_block">
+ <div style="display: inline; float:left;">
   <a href="https://github.com/AlsDev-Sbin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
 </div><br/>
   
 <div style="display: inline_block"><br>
