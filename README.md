@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/AlsDev-Sbin"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="1200rem" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="1200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
 </div><br/>
   
 <div><br>
