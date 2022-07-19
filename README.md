@@ -1,4 +1,4 @@
-- 👋 Olá, Sou André Luiz (AlsDev-Sbin)
+- 👋 Olá, Sou André Luiz (AlsDev)
 - 👀 Me interesso por várias tecnologias não utilizadas, só pra tentar extrair leite de pedra.
 - 🏇 Atualmente estou me aventurando no mundo web que nunca fui tão bom.
 - 😍 Gostaria de coloborar com qualquer projeto backend, melhor ainda se for o desenvolvimento de um compilador.
