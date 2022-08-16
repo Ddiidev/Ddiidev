@@ -4,9 +4,9 @@
 - 😍 Gostaria de coloborar com qualquer projeto backend, melhor ainda se for o desenvolvimento de um compilador.
 
  <div>
-  <a href="https://github.com/AlsDev-Sbin"/>
-  <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=AlsDev-Sbin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsDev-Sbin&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/ldedev"/>
+  <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=ldedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldedev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div><br>
