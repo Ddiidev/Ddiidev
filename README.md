@@ -12,7 +12,7 @@
 <div><br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Linguagens%20mãe%20-%23333?style=for-the-badge&logo=CommonWorkflowLanguage&logoColor=white" target="_blank"></a><br/>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/C%20Sharp-black?style=for-the-badge&logo=Csharp&logoColor=%238b1be0" target="_blank"></a>
-  <a href="http://www.kixtart.org/" target="_blank"><img src="https://img.shields.io/badge/KiXtart-black?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAKAQMAAACQUtwWAAAACXBIWXMAAA+wAAAPsAHpfpy9AAAABlBMVEUAAAAA/wA2Q0S9AAAALUlEQVQI12NgAIHqnvIGBmMgZDCzkWNgsOHhYWCwAxHGPHIgAihRub+6AawWAKT3BqFKG0gaAAAAAElFTkSuQmCC" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/V-black?style=for-the-badge&logo=V&logoColor=%5d87bf" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Php-black?style=for-the-badge&logo=Php&logoColor=%23222fa3" target="_blank"></a>
   <br/>
 
