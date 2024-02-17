@@ -1,12 +1,12 @@
-- 😎 Olá, Sou André Luiz
-- ⚙️ Me interesso por várias tecnologias, gosto de trabalhar com ferramentas que ajudam outros dev.
-- 🦾 Atualmente estou me aventurando no mundo dos compiladores, algo que estou estudando por conta própria.
-- ❤️ Gostaria de coloborar com qualquer projeto backend, melhor ainda se for no desenvolvimento de um compilador.
+- ?? Olá, Sou André Luiz
+- ?? Me interesso por várias tecnologias, gosto de trabalhar com ferramentas que ajudam outros dev.
+- ?? Atualmente estou me aventurando no mundo dos compiladores, algo que estou estudando por conta própria.
+- ?? Gostaria de coloborar com qualquer projeto backend, melhor ainda se for no desenvolvimento de um compilador.
 
  <div>
-  <a href="https://github.com/ldedev"/>
-  <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=ldedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldedev&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/ddiidev"/>
+  <img height="145rem" src="https://github-readme-stats.vercel.app/api?username=ddiidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddiidev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div><br>
