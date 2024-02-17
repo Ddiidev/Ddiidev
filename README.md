@@ -1,7 +1,7 @@
-- ?? Olá, Sou André Luiz
-- ?? Me interesso por várias tecnologias, gosto de trabalhar com ferramentas que ajudam outros dev.
-- ?? Atualmente estou me aventurando no mundo dos compiladores, algo que estou estudando por conta própria.
-- ?? Gostaria de coloborar com qualquer projeto backend, melhor ainda se for no desenvolvimento de um compilador.
+- 😀 Olá, Sou André Luiz
+- 💡 Me interesso por várias tecnologias, gosto de trabalhar com ferramentas que ajudam outros dev.
+- 🧗🏻‍♂️ Atualmente estou me aventurando no mundo dos compiladores, algo que estou estudando por conta própria.
+- ❤️ Gostaria de coloborar com qualquer projeto backend, melhor ainda se for no desenvolvimento de um compilador.
 
  <div>
   <a href="https://github.com/ddiidev"/>
